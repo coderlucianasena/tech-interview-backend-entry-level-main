@@ -1,0 +1,6 @@
+2024-12-19 18:46:32.387 -03 [16456] LOG:  iniciando PostgreSQL 16.6, compiled by Visual C++ build 1942, 64-bit
+2024-12-19 18:46:32.391 -03 [16456] LOG:  não foi possível vincular o endereço IPv6 "::1": Permission denied
+2024-12-19 18:46:32.392 -03 [16456] LOG:  não foi possível vincular o endereço IPv4 "127.0.0.1": Permission denied
+2024-12-19 18:46:32.392 -03 [16456] ADVERTÊNCIA:  não foi possível criar soquete de escuta para "localhost"
+2024-12-19 18:46:32.392 -03 [16456] FATAL:  não foi possível criar nenhum soquete TCP/IP
+2024-12-19 18:46:32.393 -03 [16456] LOG:  sistema de banco de dados está desligado
