@@ -4,7 +4,7 @@
 
 Este projeto foi desenvolvido como parte do desafio técnico da RD Station, consistindo em uma API para gerenciamento de um carrinho de compras de e-commerce. O desenvolvimento seguiu as diretrizes da RD Station, priorizando código limpo, legível e eficiente.
 
-### Desenvolvido por:
+### Implementações feitas por:
 
 - **Luciana Sena**
 - **E-mail:** [contato@lucianasena.tech](mailto:contato@lucianasena.tech)
