@@ -8,7 +8,7 @@ Este projeto foi desenvolvido como parte do desafio técnico da RD Station, cons
 
 - **Luciana Sena**
 - **E-mail:** [contato@lucianasena.tech](mailto:contato@lucianasena.tech)
-- **Repositório:** [GitHub](https://github.com/coderlucianasena/tech-interview-backend-entry-level-main.git)
+- **Link do Repositório:** [GitHub](https://github.com/coderlucianasena/tech-interview-backend-entry-level-main.git)
 
 ---
 
